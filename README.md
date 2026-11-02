@@ -33,7 +33,6 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 - SaaS & Technology Entrepreneurship
 
 ---
----
 
 ## 🤖 AI Toolbox
 
@@ -43,7 +42,6 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 - 🛠️ AI development environment — Google Antigravity and Antigravity CLI.
 - 🚀 AI-powered products — Experimenting with practical applications and intelligent digital solutions.
 
----
 
 ---
 
@@ -81,7 +79,6 @@ A machine learning-based application that analyzes real estate data to predict p
 
 **Technologies:** Python · Scikit-learn · Streamlit
 
----
 
 ---
 
@@ -96,6 +93,7 @@ A machine learning-based application that analyzes real estate data to predict p
 
 ## 📈 My Approach
 
+I'm driven by curiosity, continuous learning, and building practical solutions. My approach is to explore emerging technologies, experiment with ideas, and turn what I learn into useful digital products.
 
 ## 🤝 Let's Connect
 
