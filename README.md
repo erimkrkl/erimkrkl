@@ -58,6 +58,25 @@ A machine learning-based application that analyzes real estate data to predict p
 
 ---
 
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=erimkrkl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erimkrkl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erimkrkl&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+
+
+
 ## 📈 My Approach
 
 I follow emerging technologies and bring different tools together to build practical solutions.
