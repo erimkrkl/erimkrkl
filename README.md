@@ -61,9 +61,11 @@ A machine learning-based application that analyzes real estate data to predict p
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](./profile/stats.svg)
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</p>
 
----
 ---
 
 ## 📈 My Approach
