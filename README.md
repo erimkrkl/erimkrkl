@@ -57,7 +57,6 @@ A machine learning-based application that analyzes real estate data to predict p
 
 ---
 
-
 ---
 
 ## 📊 GitHub Statistics
