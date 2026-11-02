@@ -80,3 +80,13 @@ A machine learning-based application that analyzes real estate data to predict p
 ## 🤝 Let's Connect
 
 I'm open to exchanging ideas, exploring opportunities, and collaborating on projects related to AI, technology, automation, and digital product development.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erimkrkl&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erimkrkl&layout=compact&theme=tokyonight)
+
+---
