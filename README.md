@@ -44,16 +44,32 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 - 🚀 AI-powered products — Experimenting with practical applications and intelligent digital solutions.
 
 ---
-## 🧰 Technologies & Tools
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Programming & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,github,streamlit" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+</p>
+
+### 🤖 AI Assistants & Development Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+### ⚙️ Automation
+
+<p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
 </p>
+
 
 ---
 
