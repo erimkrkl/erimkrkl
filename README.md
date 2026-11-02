@@ -93,7 +93,11 @@ A machine learning-based application that analyzes real estate data to predict p
 
 ## 📈 My Approach
 
-I'm driven by curiosity, continuous learning, and building practical solutions. My approach is to explore emerging technologies, experiment with ideas, and turn what I learn into useful digital products.
+I believe in learning by building. My focus is on exploring emerging technologies, developing practical solutions, and turning ideas into useful digital products.
+
+I'm continuously improving my skills in Artificial Intelligence, Machine Learning, automation, and software development.
+
+I value experimentation, problem-solving, and creating technology that delivers real-world value.
 
 ## 🤝 Let's Connect
 
