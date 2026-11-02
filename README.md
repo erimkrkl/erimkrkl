@@ -1,66 +1,59 @@
-# Hey there, I'm Mehmet 👋
+# Hey, I'm Mehmet Erim 👋
 
-### AI Builder | Aspiring AI Entrepreneur
+### AI Builder | AI Entrepreneur
 
-I'm interested in building practical solutions with Artificial Intelligence and turning ideas into useful digital products.
+I'm focused on Artificial Intelligence, automation, and digital product development. I believe in turning technology into practical applications and products that solve real-world problems.
 
-My focus is on exploring AI technologies, developing AI-powered applications, automating workflows, and building products that solve real-world problems.
+My main interests include building AI-powered applications, intelligent automation systems, and next-generation digital products.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🤖 Exploring Artificial Intelligence and Generative AI
-- 🚀 Interested in building AI-powered applications and digital products
-- ⚙️ Learning AI automation, workflows, and AI agents
-- 🐍 Developing my Python and Machine Learning skills through practical projects
-- 💡 Interested in SaaS, entrepreneurship, and technology-driven business ideas
-- 📚 I believe in learning by building and experimenting.
+- 🤖 Interested in Artificial Intelligence and Generative AI technologies.
+- 🚀 Building AI-powered applications and digital products.
+- ⚙️ Working with automation systems, AI agents, and intelligent workflows.
+- 🐍 Developing data-driven projects with Python and Machine Learning.
+- 💡 Interested in SaaS, technology startups, and digital business models.
+- 🎯 Focused on turning technology into sustainable solutions for real-world needs.
 
 ---
 
-## 🔭 What I'm Building
+## 🔭 Areas of Focus
 
-I'm currently focused on learning and developing projects in:
-
-- AI-powered applications
-- Intelligent automation workflows
-- AI agents and practical AI tools
-- Data-driven applications
-- Digital products and SaaS ideas
-
----
-
-## 🧠 AI & Technology Interests
-
-| Area | Focus |
-|---|---|
-| Artificial Intelligence | Generative AI, LLMs |
-| AI Automation | Workflow automation |
-| AI Agents | Agent-based applications |
-| Machine Learning | Practical model development |
-| Web Development | AI-powered web applications |
-| Entrepreneurship | SaaS and digital products |
+- Artificial Intelligence & Generative AI
+- AI-powered Applications
+- AI Agents & Automation
+- Machine Learning & Data Science
+- AI-assisted Development
+- Web Applications & Digital Products
+- SaaS & Technology Entrepreneurship
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🧠 Technologies & Tools
 
-**Currently Learning**
-
-- Python
-- Machine Learning
-- Web Application Development
-
-**Exploring**
-
+**AI & AI Development**
 - ChatGPT
-- Google Colab
+- Claude
+- Google Antigravity
+- Antigravity CLI
+- AI APIs
+
+**Programming & Development**
+- Python
+- Git & GitHub
+- Streamlit
 - Scikit-learn
+
+**Automation & Productivity**
 - n8n
 - Make
-- AI APIs
-- Git & GitHub
+- AI-powered Workflows
+
+**Data & Experimentation**
+- Google Colab
+- Machine Learning
 
 ---
 
@@ -68,27 +61,20 @@ I'm currently focused on learning and developing projects in:
 
 ### 🏠 House Price Prediction
 
-A machine learning project that predicts house prices using property features.
+A machine learning-based application that analyzes real estate data to predict property prices.
 
-- Python
-- Scikit-learn
-- Machine Learning
-- Streamlit
-
-Built as a practical learning project.
-
-More projects coming soon!
+**Technologies:** Python · Scikit-learn · Streamlit
 
 ---
 
-## 📈 My Learning Journey
+## 📈 My Approach
 
-I'm continuously exploring new technologies, experimenting with AI tools, and turning what I learn into practical projects.
+I follow emerging technologies and bring different tools and technologies together to build practical solutions.
 
-My goal is to build useful AI-powered products and develop solutions that create real value.
+My goal is to combine Artificial Intelligence, software development, and entrepreneurship to create useful, scalable, and value-driven digital products.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, exchanging ideas, and exploring new opportunities in AI and technology.
+I'm open to exchanging ideas, exploring opportunities, and collaborating on projects related to AI, technology, automation, and digital product development.
