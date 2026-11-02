@@ -5,7 +5,6 @@
 ---
 
 
-
 # Hey, I'm Mehmet Erim 👋
 
 ### AI Builder | AI Entrepreneur
