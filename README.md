@@ -38,8 +38,6 @@ My main interests include building AI-powered applications, intelligent automati
 
 ---
 
-## 🧠 Technologies & Tools
-
 
 ## 🧰 Technologies & Tools
 
