@@ -101,8 +101,20 @@ I value experimentation, problem-solving, and creating technology that delivers 
 
 ## 🤝 Let's Connect
 
-I'm open to exchanging ideas, exploring opportunities, and collaborating on projects related to AI, technology, automation, and digital product development.
+I'm always interested in connecting with people who are passionate about Artificial Intelligence, technology, automation, and digital product development.
 
----
+Whether it's sharing ideas, discussing projects, or exploring potential collaborations, feel free to reach out.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehmet-erim-k-339a592b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:erimk04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/erimkrkl">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+📍 Antalya, Türkiye
