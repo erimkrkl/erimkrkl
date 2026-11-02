@@ -33,7 +33,17 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 - SaaS & Technology Entrepreneurship
 
 ---
+---
 
+## 🤖 AI Toolbox
+
+- 🧠 AI-assisted development — Exploring AI tools to accelerate software development.
+- 💬 AI assistants — ChatGPT and Claude for research, problem-solving, and development.
+- ⚡ AI automation — Exploring n8n and Make to build automated workflows.
+- 🛠️ AI development environment — Google Antigravity and Antigravity CLI.
+- 🚀 AI-powered products — Experimenting with practical applications and intelligent digital solutions.
+
+---
 ## 🧰 Technologies & Tools
 
 <p align="left">
