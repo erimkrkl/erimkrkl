@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Mehmet AI Builder Banner">
+</p>
+
+---
+
+
 # Hey, I'm Mehmet Erim 👋
 
 ### AI Builder | AI Entrepreneur
