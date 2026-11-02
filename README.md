@@ -39,18 +39,21 @@ My main interests include building AI-powered applications, intelligent automati
 ---
 
 
+
 ## 🧰 Technologies & Tools
 
 ### Programming & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,streamlit,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,github" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### AI & AI Development
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity_CLI-333333?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
@@ -59,6 +62,7 @@ My main interests include building AI-powered applications, intelligent automati
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
 </p>
+
 
 
 ---
