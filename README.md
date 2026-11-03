@@ -102,6 +102,14 @@ A machine learning project focused on predicting real estate prices using Python
 
 ---
 
+## 📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erimkrkl&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+</p>
+
+---
+
 ## 📈 My Approach
 
 I believe in learning by building. My focus is on exploring emerging technologies, developing practical solutions, and turning ideas into useful digital products.
