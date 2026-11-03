@@ -81,7 +81,18 @@ A machine learning project focused on predicting real estate prices using Python
 **Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
 ---
+---
 
+## 🔍 What I'm Exploring
+
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🧠 AI Agents & Agentic Workflows
+- ⚙️ Intelligent Automation
+- 🐍 Python & Machine Learning
+- 🌐 AI-powered Web Applications
+- 🚀 SaaS & Digital Product Development
+
+---
 ## 📊 GitHub Statistics
 
 <p align="center">
