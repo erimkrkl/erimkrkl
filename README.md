@@ -81,7 +81,6 @@ A machine learning project focused on predicting real estate prices using Python
 **Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
 ---
----
 
 ## 🔍 What I'm Exploring
 
