@@ -91,7 +91,7 @@ A machine learning project focused on predicting real estate prices using Python
 - 🌐 AI-powered Web Applications
 - 🚀 SaaS & Digital Product Development
 
----
+
 ## 📊 GitHub Statistics
 
 <p align="center">
