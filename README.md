@@ -41,10 +41,14 @@ I'm passionate about Artificial Intelligence, automation, and digital product de
   <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
-### 🌐 Web Application Development
-
+### 🌐 Currently Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,streamlit" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🚀 Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=streamlit" />
 </p>
 
 ### 🤖 AI & Development Tools
