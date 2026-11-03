@@ -105,11 +105,7 @@ A machine learning project focused on predicting real estate prices using Python
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/0d1117/6366f1/erimkrkl"
-    alt="Erim's GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="./profile/contributions.svg" width="100%" alt="Erim's GitHub Contribution Graph" />
 </p>
 
 ---
