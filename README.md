@@ -1,25 +1,25 @@
+```html
 <p align="center">
   <img src="./banner.png" width="100%" alt="Erim - AI Builder & Programmer" />
 </p>
 
 ---
 
-
 # Hey, I'm Mehmet Erim 👋
 
 ### AI Builder | AI Entrepreneur
 
-I'm focused on Artificial Intelligence, automation, and digital product development. I believe in turning technology into practical applications and products that solve real-world problems.
+I'm passionate about Artificial Intelligence, automation, and digital product development. My goal is to turn ideas into practical technology solutions that solve real-world problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🤖 Interested in Artificial Intelligence and Generative AI.
-- 🚀 Building AI-powered applications and digital products.
-- ⚙️ Exploring automation systems and AI agents.
-- 🐍 Developing projects with Python and Machine Learning.
-- 💡 Interested in SaaS and technology startups.
+- 🤖 Exploring Artificial Intelligence and Generative AI.
+- 🚀 Developing AI-powered applications and digital products.
+- ⚙️ Experimenting with automation systems and AI agents.
+- 🐍 Building projects with Python and Machine Learning.
+- 💡 Interested in SaaS products and technology startups.
 
 ---
 
@@ -27,38 +27,29 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 
 - Artificial Intelligence & Generative AI
 - AI-powered Applications
-- AI Agents & Automation
+- AI Agents & Agentic Workflows
 - Machine Learning
-- Web Applications & Digital Products
-- SaaS & Technology Entrepreneurship
+- Web Applications
+- SaaS & Digital Products
 
 ---
-
-## 🤖 AI Toolbox
-
-- 🧠 AI-assisted development — Exploring AI tools to accelerate software development.
-- 💬 AI assistants — ChatGPT and Claude for research, problem-solving, and development.
-- ⚡ AI automation — Exploring n8n and Make to build automated workflows.
-- 🛠️ AI development environment — Google Antigravity and Antigravity CLI.
-- 🚀 AI-powered products — Experimenting with practical applications and intelligent digital solutions.
-
-
----
-
 
 ## 🧰 Tech Stack
 
 ### 💻 Programming & Data Science
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 ### 🌐 Web Application Development
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,streamlit" />
 </p>
 
 ### 🤖 AI & Development Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
@@ -66,12 +57,23 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 </p>
 
 ### ⚙️ Automation
+
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
 </p>
 
+---
 
+## 🤖 AI Toolbox
+
+- 🧠 **AI-assisted development** — Exploring AI tools to accelerate software development.
+- 💬 **AI assistants** — Using ChatGPT and Claude for research, problem-solving, and development.
+- ⚡ **AI automation** — Exploring n8n and Make to create automated workflows.
+- 🛠️ **Development environment** — Google Antigravity and Antigravity CLI.
+- 🚀 **AI-powered products** — Experimenting with practical AI applications.
+
+---
 
 ## 🚀 Projects & Experiments
 
@@ -81,6 +83,7 @@ A machine learning project focused on predicting real estate prices using Python
 
 **Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
+---
 
 ## 🔍 What I'm Exploring
 
@@ -91,6 +94,7 @@ A machine learning project focused on predicting real estate prices using Python
 - 🌐 AI-powered Web Applications
 - 🚀 SaaS & Digital Product Development
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -99,12 +103,7 @@ A machine learning project focused on predicting real estate prices using Python
   <img src="./profile/top-langs.svg" height="165" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erimkrkl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
-
 
 ## 📅 Contribution Activity
 
@@ -118,7 +117,6 @@ A machine learning project focused on predicting real estate prices using Python
 
 ---
 
-
 ## 📈 My Approach
 
 I believe in learning by building. My focus is on exploring emerging technologies, developing practical solutions, and turning ideas into useful digital products.
@@ -126,6 +124,8 @@ I believe in learning by building. My focus is on exploring emerging technologie
 I'm continuously improving my skills in Artificial Intelligence, Machine Learning, automation, and software development.
 
 I value experimentation, problem-solving, and creating technology that delivers real-world value.
+
+---
 
 ## 🤝 Let's Connect
 
@@ -145,10 +145,11 @@ Whether it's sharing ideas, discussing projects, or exploring potential collabor
   </a>
 </p>
 
+📍 Antalya, Türkiye
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erimkrkl&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
 </p>
-
-📍 Antalya, Türkiye
+```
