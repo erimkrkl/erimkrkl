@@ -142,4 +142,10 @@ Whether it's sharing ideas, discussing projects, or exploring potential collabor
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erimkrkl&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+</p>
+
 📍 Antalya, Türkiye
