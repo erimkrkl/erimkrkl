@@ -106,7 +106,7 @@ A machine learning project focused on predicting real estate prices using Python
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/6366f1/erimkrkl"
+    src="https://ghchart.rshah.org/0d1117/6366f1/erimkrkl"
     alt="Erim's GitHub Contribution Graph"
     width="100%"
   />
