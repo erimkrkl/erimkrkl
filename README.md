@@ -47,8 +47,9 @@ I'm passionate about Artificial Intelligence, automation, and digital product de
 </p>
 
 ### 🚀 Application Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=streamlit" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### 🤖 AI & Development Tools
