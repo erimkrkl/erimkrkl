@@ -105,7 +105,11 @@ A machine learning project focused on predicting real estate prices using Python
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erimkrkl&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
+  <img
+    src="https://ghchart.rshah.org/6366f1/erimkrkl"
+    alt="Erim's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
