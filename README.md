@@ -69,16 +69,16 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 </p>
 
 
+
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects & Experiments
 
 ### 🏠 House Price Prediction
 
-A machine learning-based application that analyzes real estate data to predict property prices.
+A machine learning project focused on predicting real estate prices using Python and Scikit-learn.
 
-**Technologies:** Python · Scikit-learn · Streamlit
-
+**Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
 ---
 
