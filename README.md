@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Mehmet AI Builder Banner">
+  <img src="./banner.png" width="100%" alt="Erim - AI Builder & Programmer" />
 </p>
 
 ---
