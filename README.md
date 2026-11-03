@@ -70,8 +70,6 @@ I'm focused on Artificial Intelligence, automation, and digital product developm
 
 
 
----
-
 ## 🚀 Projects & Experiments
 
 ### 🏠 House Price Prediction
@@ -80,7 +78,6 @@ A machine learning project focused on predicting real estate prices using Python
 
 **Technologies:** Python · Pandas · Scikit-learn · Streamlit
 
----
 
 ## 🔍 What I'm Exploring
 
