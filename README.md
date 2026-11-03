@@ -92,8 +92,12 @@ A machine learning project focused on predicting real estate prices using Python
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erimkrkl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
